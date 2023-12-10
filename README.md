@@ -1,5 +1,3 @@
-Absolutely! Here's a concise description within a 500-word limit:
-
 🚦 **Road Sign Recognition Project** 🖼️
 
 This Python-based project presents a user-friendly graphical interface (GUI) facilitating image uploads for the identification of fundamental road signs typically encountered on streets. Recognizable signs include 20kmph, 30kmph, 50kmph, stop, and right turn.
